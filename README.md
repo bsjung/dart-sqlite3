@@ -68,8 +68,8 @@ void main() {
 
 ## Tutorial
 
-A tutorial walking through the code is available in [docs/sqlite-tutorial.md](docs/sqlite-tutorial.md).
-For information on how to use this package within a Flutter app, see [docs/android.md](docs/android.md).
+A tutorial walking through the code is available in [doc/sqlite-tutorial.md](doc/sqlite-tutorial.md).
+For information on how to use this package within a Flutter app, see [doc/android.md](doc/android.md).
 (Note: iOS is not yet supported).
 
 ## Authors
